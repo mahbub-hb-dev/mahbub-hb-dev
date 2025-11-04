@@ -68,7 +68,8 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mahbub-hb-dev&show_icons=true&theme=tokyonight" alt="Mahbub's GitHub stats" width="48%"/>
-  <img src="https://streak-stats.demolab.com?user=mahbub-hb-dev&theme=tokyonight" alt="GitHub Streak" width="48%"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=webabubakarsiddik&theme=dark&hide_border=false" alt="Mahbub's GitHub stats" width="48%"/>
+  <!-- <img src="https://streak-stats.demolab.com?user=mahbub-hb-dev&theme=tokyonight" alt="GitHub Streak" width="48%"/> -->
 </p>
 
 <p align="center">
