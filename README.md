@@ -1,12 +1,12 @@
 <!-- 👋 Welcome Banner -->
 <h1 align="center">Hi there, I'm <a href="https://github.com/mahbub-hb-dev" target="_blank">Mahbub Hasan (Belal)</a> 👋</h1>
 
-![banner](./images/fat-banner.png)
+![banner](./images/thin-banner.png)
 
 <h3 align="center">🚀 A Passionate Frontend Developer from Bangladesh 🇧🇩</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=480&lines=Frontend+Developer;React+%7C+JavaScript+%7C+CSS;Learning+Backend+%26+MERN+Stack;Love+to+Build+Beautiful+Web+UIs+💻" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=480&lines=Frontend+Developer;React+%7C+JavaScript+%7C+CSS;Tailwind+CSS+%26+Redux;Learning+Backend+%26+MERN+Stack;Love+to+Build+Beautiful+Web+UIs+💻" alt="Typing SVG" />
 </p>
 
 ---
@@ -15,7 +15,7 @@
 
 💡 I’m a curious and creative developer who loves turning ideas into interactive web experiences.  
 🌱 Currently learning **Node.js & Express.js** to become a full-stack developer.  
-💬 Ask me about **React, JavaScript, HTML, CSS, Tailwind CSS and Frontend Projects.**  
+💬 Ask me about **React, JavaScript, HTML, CSS, Tailwind CSS, Redux and Frontend Projects.**  
 🎯 Goal: To become a MERN Stack Developer & build impactful web apps.  
 ⚡ Fun fact: I love exploring mysteries — from ancient civilizations to space secrets 🌌  
 
@@ -30,7 +30,6 @@
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-C2F2FF?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-
 
 ### ⚙️ Backend & Database
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
@@ -69,7 +68,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mahbub-hb-dev&show_icons=true&theme=tokyonight" alt="Belal's GitHub stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahbub-hb-dev&theme=tokyonight" alt="GitHub Streak" width="48%"/>
+  <img src="https://streak-stats.demolab.com?user=mahbub-hb-dev&theme=tokyonight" alt="GitHub Streak" width="48%"/>
 </p>
 
 <p align="center">
