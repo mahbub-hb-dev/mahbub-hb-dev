@@ -57,6 +57,12 @@
 <a href="https://www.linkedin.com/in/mahbub-hb-dev/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+<a href="https://x.com/mahbub_hb_dev" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter%20(X)-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+<a href="https://www.instagram.com/mahbub.hb.dev/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
 <a href="https://mhbelaldev.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/🌎 Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white"/>
 </a>
