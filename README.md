@@ -1,5 +1,5 @@
 <!-- 👋 Welcome Banner -->
-<h1 style="color:#fff; text-align:center">Hi there, I'm <a style="color:yellow; font-style:italic" href="https://github.com/mahbub-hb-dev" target="_blank">Mahbub Hasan (Belal)</a> 👋</h1>
+<h1 align="center">Hi there, I'm <a href="https://github.com/mahbub-hb-dev" target="_blank">Mahbub Hasan (Belal)</a> 👋</h1>
 
 ![banner](./images/thin-banner.png)
 
@@ -71,7 +71,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mahbub-hb-dev&show_icons=true&theme=tokyonight" alt="Mahbub's GitHub stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahbub-hb-dev&theme=tokyonight&hide_border=false" alt="Mahbub's GitHub streak" width="48%"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=mahbub-hb-dev&theme=dark&hide_border=false" alt="Mahbub's GitHub stats" width="48%"/>
 </p>
 
 
