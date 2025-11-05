@@ -6,7 +6,7 @@
 <h3 align="center">🚀 A Passionate Frontend Developer from Bangladesh 🇧🇩</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=480&lines=Frontend+Developer;React+%7C+JavaScript+%7C+CSS;Tailwind+CSS+%26+Redux;Learning+Backend+%26+MERN+Stack;Love+to+Build+Beautiful+Web+UIs+💻" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1200&color=F71DBFFF&center=true&vCenter=true&width=480&lines=Frontend+Developer;React+%7C+JavaScript+%7C+CSS;Tailwind+CSS+%26+Redux;Learning+Backend+%26+MERN+Stack;Love+to+Build+Beautiful+Web+UIs+💻" alt="Typing SVG" />
 </p>
 
 ---
