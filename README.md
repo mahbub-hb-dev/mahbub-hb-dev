@@ -1,5 +1,5 @@
 <!-- 👋 Welcome Banner -->
-<h1 align="center">Hi there, I'm <a href="https://github.com/mahbub-hb-dev" target="_blank">Mahbub Hasan (Belal)</a> 👋</h1>
+<h1 align="center">Hi there, I'm <a href="https://github.com/mahbub-hb-dev" target="_blank">Mahbub Hassan (Belal)</a> 👋</h1>
 
 ![banner](./images/thin-banner.png)
 
